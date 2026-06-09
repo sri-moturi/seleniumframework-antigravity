@@ -1,0 +1,32 @@
+# Maven target directory
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.classpath
+.project
+.factorypath
+bin/
+.recommenders/
+out/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Package lock or crash logs
+*.log
